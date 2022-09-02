@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_login" type="id" />
+    <item name="textViewPassword" type="id" />
+    <item name="editEmail" type="id" />
+    <item name="editAlamat" type="id" />
+    <item name="btnSimpan" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="action_logout" type="id" />
+    <item name="action_register" type="id" />
+</resources>
